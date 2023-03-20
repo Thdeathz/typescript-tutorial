@@ -1,0 +1,9 @@
+- install: npm i typeScript -g
+
+- compile: 
+  tsc main.ts
+  tsc main.ts -w
+  tsc --noEmmitOnError -w : không compile những file bị lỗi
+
+- init config file:
+  tsc --init
