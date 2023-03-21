@@ -7,3 +7,8 @@
 
 - init config file:
   tsc --init
+
+- vite setup:
+  npm create vite@latest
+  npm i
+  npm run dev
